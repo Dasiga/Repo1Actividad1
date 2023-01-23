@@ -1,0 +1,5 @@
+# Se pide que al menos, no versione los ficheros y carpetas propios de eclipse y los “.class” de java
+
+.metadata/
+bin/
+.settings/
