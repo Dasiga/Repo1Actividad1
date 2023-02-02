@@ -1,11 +1,19 @@
 package pablo;
 
 public class Pablo {
-	
-	public String devolverNombre(){
+	public static void main(String[] args) {
 		
-		return "Hola, soy Pablo";
+		System.out.println(devolverNombre());
 	
+		
 	}
 
+	
+	
+	public static String devolverNombre(){
+	
+	return "Hola, soy Pablo";
+
+
+}
 }
