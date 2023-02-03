@@ -16,5 +16,8 @@ public class Danilo {
 		return "Videojuegos, bailar, pádel";
 	}
 	
+	public static String tresComidas() {
+		return "Manzana, Pizza Margarita sin piña, Cacahuetes andaluces";
+	}
 	
 }
