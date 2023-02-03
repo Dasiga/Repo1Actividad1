@@ -6,6 +6,7 @@ public class Danilo {
 		
 		System.out.println(mostrarNombre());
 		System.out.println(tresHobbies());
+		System.out.println(comidasFavoritas());
 
 	}
 
@@ -15,6 +16,8 @@ public class Danilo {
 	public static String tresHobbies() {
 		return "Videojuegos, bailar, pádel";
 	}
-	
+	public static String comidasFavoritas() {
+		return "Albóndigas, pizza, pollo frito";
+	}
 	
 }
