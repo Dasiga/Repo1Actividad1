@@ -1,5 +1,20 @@
 # Se pide que al menos, no versione los ficheros y carpetas propios de eclipse y los “.class” de java
 
-.metadata/
+### Eclipse ###
+#Felix
+.metadata
 bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
 .settings/
+.loadpath
+.recommenders
+
+#Equipo
+#.metadata/
+#bin/
+#.settings/
